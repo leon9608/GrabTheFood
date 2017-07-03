@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GrabTheFood</string>
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="google_title_text">Please sign in with your Google account</string>
+    <string name="welcome"> Welcome to the GrabTheFood! </string>
+    <string name="take_a_photo">Take A Photo</string>
+    <string name="upload_online">Upload to Internet</string>
+    <string name="food">FOOD: </string>
+    <string name="price">Price: </string>
+    <string name="restaurant_info">Restaurant Info:</string>
+    <string name="delivery_address">Delivery Address: </string>
+    <string name="additons">Additons: </string>
+    <string name="drop_success">Remarks: The pickup has been successfully dropped</string>
+    <string name="pickUp_dialog_info">Please enter your contact information</string>
+    <string name="pickUp_failure">Fill in a legal phone number!   Please try again!</string>
+    <string name="picked_status">Status: Picked</string>
+    <string name="cancelled_status">Status: Cancelled</string>
+    <string name="post_success">You have successfully uploaded</string>
+    <string name="request_success">You have successfully made a request!</string>
+    <string name="provider_info">Provider Info</string>
+</resources>
